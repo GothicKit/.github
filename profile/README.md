@@ -4,9 +4,13 @@ _GothicKit_ is a community-run organization hosting libraries and tools for the 
 
 ## Who uses _GothicKit_?
 
-Currently _GothicKit_, and especially _phoenix_, is being used by these awesome projects:
+Currently _GothicKit_, and especially _ZenKit_, is being used by these awesome projects:
 
-[**GothicVR**](https://github.com/GothicVRProject/unZENity-VR)
+[**Gothic-UnZENity**](https://github.com/Gothic-UnZENity-Project/Gothic-UnZENity)
+
+_Gothic-UnZENity_ aims to recreate the world of Gothic as a VR-game. It is a fork of [GothicVR](https://github.com/GothicVRProject/unZENity-VR)
+
+[**GothicVR**](https://github.com/GothicVRProject/GothicVR)
 
 _GothicVR_ aims to recreate the world of Gothic as a VR-game.
 
