@@ -10,6 +10,10 @@ Currently _GothicKit_, and especially _ZenKit_, is being used by these awesome p
 
 _Gothic-UnZENity_ aims to recreate the world of Gothic as a VR-game. It is a fork of [GothicVR](https://github.com/GothicVRProject/unZENity-VR)
 
+[**ZenRen**](https://github.com/Katharsas/ZenRen)
+
+High performance DirectX11 viewer/renderer for Gothic assets (VDF or single files). Attempts to closely recreate original G1/G2-AddOn look and lighting.
+
 [**GothicVR**](https://github.com/GothicVRProject/GothicVR)
 
 _GothicVR_ aims to recreate the world of Gothic as a VR-game.
